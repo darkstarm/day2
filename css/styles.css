@@ -1,0 +1,48 @@
+body{
+  background-color: black;
+}
+
+#container-bg{
+  background-color: yellow;
+  height: 770px;
+}
+.height{
+  height: 100px;
+}
+
+.header{
+  background-color: blue;
+  border: 2px solid black;
+  height: 150px;
+}
+
+.nav{
+  background-color: green;
+  border: 2px solid black;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.content{
+  background-color: red;
+  border: 2px solid black;
+  height: 200px;
+}
+
+.aside{
+  background-color: #66f9f0;
+  border: 2px solid black;
+  height: 200px;
+}
+
+.promo{
+  background-color: orange;
+  border: 2px solid black;
+  height: 150px;
+}
+
+.footer{
+  background-color: black;
+  border: 2px solid black;
+  color: white;
+}
